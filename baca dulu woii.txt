@@ -1,3 +1,4 @@
 Silahkan pakai source code ini, edit sesuai kemauan kalian
-kalau ada error, perbaiki sendiri :) 
-arigato!
+Table database sudah tersedia, tinggal import saja, buat dulu database di phpmyadmin lalu import tabel databasenya
+Kalau ada error, perbaiki sendiri :) 
+Arigato!
